@@ -1,7 +1,7 @@
 # Car-Tracker
 An Implementation of simple car tracker using Detectron2 as the core detection system.
 
-<img src='https://github.com/mohammedElfatihSalah/Car-Tracker/blob/master/30.jpg?raw=true' width=500 height=250 />
+<img src='https://github.com/mohammedElfatihSalah/Car-Tracker/blob/master/30.jpg?raw=true' width=400 height=250 />
 
 ## Methodology
 
